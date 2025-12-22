@@ -33,7 +33,7 @@ struct AIStudyAssistantView: View {
     // TODO: Store API key securely in Keychain for production
     private var geminiAPIKey: String {
         // Replace with your actual Gemini API key
-        return "AIzaSyDle2ear8uO-5niR19fMRl2cDZrN4tv2y0"
+        return "API_KEY_HERE"
     }
     
     private let suggestedQuestions = [
